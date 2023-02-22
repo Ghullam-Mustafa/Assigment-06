@@ -197,6 +197,92 @@ color: #424242;
 }
 
 
+.second-part{
+    
+}
+
+.second-p{
+    /* font-family: 'Source Sans Pro'; */
+font-style: normal;
+font-weight: 700;
+font-size: 58px;
+line-height: 100%;
+/* identical to box height, or 88px */
+
+
+/* Theme/White */
+
+color: #FFFFFF;
+
+/* Object shadow 2 */
+
+text-shadow: 0px 14px 15px rgba(255, 174, 0, 0.01), 0px 27px 82px rgba(255, 174, 0, 0.28);
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.pone{
+    /* font-family: 'Source Sans Pro'; */
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 120%;
+/* or 26px */
+
+
+color: #504F4F;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.memo{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 24px;
+gap: 8px;
+border-radius: 20px;
+width: 100%;
+height: 30%;
+
+/* Theme/White */
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+
+/* .btn span{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+/* padding: 10px 24px; */
+gap: 10px;
+
+
+
+background: rgba(241, 114, 40, 0.1);
+border-radius: 8px;
+
+/* Inside auto layout */
+
+
+} */
+
 
 
 
