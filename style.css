@@ -1,3 +1,9 @@
 .icon-location{
     color: #FFB30E;
 }
+
+.btn-delivery{
+        color: #F17228;
+        background: rgba(241, 114, 40, 0.1);
+        border-radius: 8px;
+}
