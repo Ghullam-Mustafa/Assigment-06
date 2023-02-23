@@ -7,3 +7,12 @@
         background: rgba(241, 114, 40, 0.1);
         border-radius: 8px;
 }
+
+.third-part{
+    background: linear-gradient(180deg, rgba(255, 206, 103, 0.22) -42.47%, rgba(253, 237, 202, 0) 100%);
+}
+
+.how{
+    color: 
+    #F17228;
+}
