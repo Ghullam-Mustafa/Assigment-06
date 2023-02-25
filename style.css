@@ -64,3 +64,8 @@ border-radius: 16px;
 .footer{
     background: #212121;
 }
+
+li{
+    list-style: none;
+    cursor: pointer;
+}
