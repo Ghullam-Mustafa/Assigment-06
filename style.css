@@ -60,3 +60,7 @@ box-shadow: 0px 5px 10px rgba(255, 174, 0, 0.26), 0px 20px 40px rgba(255, 174, 0
     filter: drop-shadow(0px 14px 15px rgba(124, 124, 124, 0.06)) drop-shadow(0px 27px 82px rgba(124, 124, 124, 0.28));
 border-radius: 16px;
 }
+
+.footer{
+    background: #212121;
+}
