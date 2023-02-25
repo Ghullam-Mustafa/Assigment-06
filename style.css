@@ -73,3 +73,7 @@ li{
 .btn-pickup{
     color: #757575;
 }
+
+.last{
+    justify-content: space-between;
+}
