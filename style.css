@@ -77,3 +77,9 @@ li{
 .last{
     justify-content: space-between;
 }
+
+@media screen and (max-width: 480px) {
+    .remove {
+        display: none;
+    }
+  }
